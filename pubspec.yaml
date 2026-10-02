@@ -1,0 +1,15 @@
+name: byebyecj
+description: Experimental embedded storage engine for Dart applications with a page-based core and future-ready architecture.
+version: 0.1.0
+homepage: https://github.com/example/byebyecj
+repository: https://github.com/example/byebyecj
+issue_tracker: https://github.com/example/byebyecj/issues
+
+environment:
+  sdk: ^3.13.2
+
+dependencies: {}
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.0
